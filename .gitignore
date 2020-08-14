@@ -1,0 +1,5 @@
+obj/
+appsettings.Development.json
+*.suo
+.vs
+bin/
