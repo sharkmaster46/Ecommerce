@@ -34,8 +34,6 @@ D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Customers\bin\D
 D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Customers\bin\Debug\netcoreapp3.1\ECommerce.Customers.pdb
 D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Customers\bin\Debug\netcoreapp3.1\AutoMapper.dll
 D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Customers\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Customers\obj\Debug\netcoreapp3.1\ECommerce.Customers.csproj.CoreCompileInputs.cache
-D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Customers\obj\Debug\netcoreapp3.1\ECommerce.Customers.MvcApplicationPartsAssemblyInfo.cache
 D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Customers\obj\Debug\netcoreapp3.1\ECommerce.Customers.dll
 D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Customers\obj\Debug\netcoreapp3.1\ECommerce.Customers.pdb
 D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Customers\obj\Debug\netcoreapp3.1\ECommerce.Customers.genruntimeconfig.cache
