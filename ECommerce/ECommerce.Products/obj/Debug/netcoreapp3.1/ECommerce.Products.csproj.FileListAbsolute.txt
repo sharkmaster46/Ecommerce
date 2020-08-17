@@ -36,4 +36,6 @@ D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Products\bin\De
 D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Products\obj\Debug\netcoreapp3.1\ECommerce.Products.dll
 D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Products\obj\Debug\netcoreapp3.1\ECommerce.Products.pdb
 D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Products\obj\Debug\netcoreapp3.1\ECommerce.Products.genruntimeconfig.cache
+D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Products\obj\Debug\netcoreapp3.1\ECommerce.Products.csproj.CoreCompileInputs.cache
+D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Products\obj\Debug\netcoreapp3.1\ECommerce.Products.MvcApplicationPartsAssemblyInfo.cache
 D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Products\obj\Debug\netcoreapp3.1\ECommerce.Products.csprojAssemblyReference.cache

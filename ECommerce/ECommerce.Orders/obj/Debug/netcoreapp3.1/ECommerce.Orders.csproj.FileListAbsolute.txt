@@ -26,7 +26,6 @@ D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Orders\bin\Debu
 D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Orders\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Orders\obj\Debug\netcoreapp3.1\ECommerce.Orders.csproj.CopyComplete
 D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Orders\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
-D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Orders\obj\Debug\netcoreapp3.1\ECommerce.Orders.csprojAssemblyReference.cache
 D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Orders\bin\Debug\netcoreapp3.1\ECommerce.Orders.deps.json
 D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Orders\bin\Debug\netcoreapp3.1\ECommerce.Orders.runtimeconfig.json
 D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Orders\bin\Debug\netcoreapp3.1\ECommerce.Orders.runtimeconfig.dev.json
@@ -37,3 +36,6 @@ D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Orders\bin\Debu
 D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Orders\obj\Debug\netcoreapp3.1\ECommerce.Orders.dll
 D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Orders\obj\Debug\netcoreapp3.1\ECommerce.Orders.pdb
 D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Orders\obj\Debug\netcoreapp3.1\ECommerce.Orders.genruntimeconfig.cache
+D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Orders\obj\Debug\netcoreapp3.1\ECommerce.Orders.csproj.CoreCompileInputs.cache
+D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Orders\obj\Debug\netcoreapp3.1\ECommerce.Orders.MvcApplicationPartsAssemblyInfo.cache
+D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Orders\obj\Debug\netcoreapp3.1\ECommerce.Orders.csprojAssemblyReference.cache

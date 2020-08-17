@@ -7,7 +7,6 @@ D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Search\bin\Debu
 D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Search\bin\Debug\netcoreapp3.1\ECommerce.Search.runtimeconfig.dev.json
 D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Search\bin\Debug\netcoreapp3.1\ECommerce.Search.dll
 D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Search\bin\Debug\netcoreapp3.1\ECommerce.Search.pdb
-D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Search\obj\Debug\netcoreapp3.1\ECommerce.Search.csprojAssemblyReference.cache
 D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Search\obj\Debug\netcoreapp3.1\ECommerce.Search.AssemblyInfoInputs.cache
 D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Search\obj\Debug\netcoreapp3.1\ECommerce.Search.AssemblyInfo.cs
 D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Search\obj\Debug\netcoreapp3.1\ECommerce.Search.RazorTargetAssemblyInfo.cache
@@ -30,3 +29,6 @@ D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Search\bin\Debu
 D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Search\bin\Debug\netcoreapp3.1\Polly.dll
 D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Search\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
 D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Search\obj\Debug\netcoreapp3.1\ECommerce.Search.csproj.CopyComplete
+D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Search\obj\Debug\netcoreapp3.1\ECommerce.Search.csproj.CoreCompileInputs.cache
+D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Search\obj\Debug\netcoreapp3.1\ECommerce.Search.MvcApplicationPartsAssemblyInfo.cache
+D:\Practise and Testing\MicroService\Courses\ECommerce\ECommerce.Search\obj\Debug\netcoreapp3.1\ECommerce.Search.csprojAssemblyReference.cache
